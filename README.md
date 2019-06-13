@@ -1,10 +1,2 @@
-"# javascript" 
-"# javascript" 
-"# rap-generator" 
-"# security-system" 
-"# calculator" 
-"# calender" 
-"# library-management-system" 
-"# stone-paper-scissors" 
-"# tic-tac-toe" 
+# C Programming Language
 "# blinking-heart-with-name" 
